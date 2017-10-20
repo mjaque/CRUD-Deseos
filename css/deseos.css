@@ -1,0 +1,48 @@
+
+
+/*GENERALES
+=====================*/
+input,textarea{
+    margin-bottom: 10px;
+}
+ul{
+    margin-bottom: 0;
+}
+
+/*RECURSOS
+=====================*/
+.m-y-10{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.m-y-1em{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.active{
+    color: aqua;
+}
+
+/*HEADER
+===================*/
+header a{
+    font-size: 20px;
+    color:#fff
+}
+header nav a{
+    padding: 10px;
+}
+header a:hover{
+    color:aqua;
+    text-decoration: none;
+}
+
+.btnBorrar{
+	cursor: pointer;
+}
+
+
+
+
+
+
